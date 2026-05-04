@@ -1,6 +1,6 @@
 // CASOS DE USO DE ITENS
 
- criar itens com subtotal createContext
+ // -> criar itens com subtotal createContext
  async function createItem(name, price, quantity) {
     return {
         name,
